@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import catboost
 import pickle
 
 # st.write("""
