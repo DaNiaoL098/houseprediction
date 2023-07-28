@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from catboost import CatBoostRegressor
+import catboost
 import pickle
 
 # st.write("""
