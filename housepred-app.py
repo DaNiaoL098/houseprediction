@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import pickle
-from scikit-learn import catboost
+import catboost
 
 # st.write("""
 # # California House Price Prediction App""")
